@@ -1,0 +1,62 @@
+
+rabbit1 2.png
+size: 309,1069
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rabbit-1/arm-l
+  rotate: false
+  xy: 2, 826
+  size: 177, 241
+  orig: 179, 244
+  offset: 1, 2
+  index: -1
+rabbit-1/arm-r
+  rotate: false
+  xy: 2, 299
+  size: 158, 282
+  orig: 160, 284
+  offset: 1, 1
+  index: -1
+rabbit-1/leg
+  rotate: true
+  xy: 162, 139
+  size: 442, 126
+  orig: 444, 128
+  offset: 1, 1
+  index: -1
+rabbit-1/tail
+  rotate: true
+  xy: 161, 2
+  size: 135, 133
+  orig: 187, 136
+  offset: 51, 1
+  index: -1
+rabbit-2/tail
+  rotate: true
+  xy: 161, 2
+  size: 135, 133
+  orig: 187, 136
+  offset: 51, 1
+  index: -1
+rabbit-2/arm-l
+  rotate: false
+  xy: 2, 583
+  size: 177, 241
+  orig: 179, 244
+  offset: 1, 2
+  index: -1
+rabbit-2/arm-r
+  rotate: false
+  xy: 2, 15
+  size: 157, 282
+  orig: 160, 284
+  offset: 1, 1
+  index: -1
+rabbit-2/leg
+  rotate: true
+  xy: 181, 625
+  size: 442, 126
+  orig: 444, 128
+  offset: 1, 1
+  index: -1
