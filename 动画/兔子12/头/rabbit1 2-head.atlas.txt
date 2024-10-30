@@ -1,0 +1,62 @@
+
+rabbit1 2.png
+size: 1655,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rabbit-1/eyeline
+  rotate: false
+  xy: 1268, 189
+  size: 378, 67
+  orig: 380, 70
+  offset: 1, 2
+  index: -1
+rabbit-1/eyelip
+  rotate: false
+  xy: 1268, 395
+  size: 385, 135
+  orig: 387, 138
+  offset: 1, 2
+  index: -1
+rabbit-1/head
+  rotate: true
+  xy: 2, 2
+  size: 528, 633
+  orig: 528, 637
+  offset: 0, 0
+  index: -1
+rabbit-1/mouth
+  rotate: false
+  xy: 1268, 47
+  size: 133, 74
+  orig: 135, 76
+  offset: 1, 1
+  index: -1
+rabbit-2/mouth
+  rotate: false
+  xy: 1268, 47
+  size: 133, 74
+  orig: 135, 76
+  offset: 1, 1
+  index: -1
+rabbit-2/eyeline
+  rotate: false
+  xy: 1268, 123
+  size: 378, 64
+  orig: 380, 67
+  offset: 1, 2
+  index: -1
+rabbit-2/eyelip
+  rotate: false
+  xy: 1268, 258
+  size: 385, 135
+  orig: 387, 138
+  offset: 1, 2
+  index: -1
+rabbit-2/head
+  rotate: true
+  xy: 637, 4
+  size: 526, 629
+  orig: 526, 629
+  offset: 0, 0
+  index: -1
