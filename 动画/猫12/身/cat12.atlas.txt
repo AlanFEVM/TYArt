@@ -1,0 +1,48 @@
+
+cat12.png
+size: 222,979
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat-1/arm-l
+  rotate: false
+  xy: 105, 182
+  size: 112, 154
+  orig: 114, 156
+  offset: 1, 1
+  index: -1
+cat-1/arm-r
+  rotate: false
+  xy: 2, 170
+  size: 101, 166
+  orig: 103, 168
+  offset: 1, 1
+  index: -1
+cat-1/leg
+  rotate: true
+  xy: 2, 658
+  size: 319, 218
+  orig: 321, 503
+  offset: 1, 1
+  index: -1
+cat-2/arm-l
+  rotate: false
+  xy: 105, 26
+  size: 112, 154
+  orig: 114, 156
+  offset: 1, 1
+  index: -1
+cat-2/arm-r
+  rotate: false
+  xy: 2, 2
+  size: 101, 166
+  orig: 103, 168
+  offset: 1, 1
+  index: -1
+cat-2/leg
+  rotate: true
+  xy: 2, 338
+  size: 318, 218
+  orig: 321, 503
+  offset: 2, 1
+  index: -1

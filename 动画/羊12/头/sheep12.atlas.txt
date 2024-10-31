@@ -1,0 +1,62 @@
+
+sheep12.png
+size: 1610,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheep-1/eyeline
+  rotate: true
+  xy: 1421, 7
+  size: 379, 73
+  orig: 379, 73
+  offset: 0, 0
+  index: -1
+sheep-1/eyelip
+  rotate: true
+  xy: 1296, 2
+  size: 384, 123
+  orig: 386, 125
+  offset: 1, 1
+  index: -1
+sheep-2/eyelip
+  rotate: true
+  xy: 1296, 2
+  size: 384, 123
+  orig: 386, 125
+  offset: 1, 1
+  index: -1
+sheep-1/head
+  rotate: false
+  xy: 2, 8
+  size: 645, 378
+  orig: 647, 381
+  offset: 1, 2
+  index: -1
+sheep-1/mouth
+  rotate: false
+  xy: 1571, 312
+  size: 37, 74
+  orig: 39, 77
+  offset: 1, 2
+  index: -1
+sheep-2/mouth
+  rotate: false
+  xy: 1571, 312
+  size: 37, 74
+  orig: 39, 77
+  offset: 1, 2
+  index: -1
+sheep-2/eyeline
+  rotate: true
+  xy: 1496, 7
+  size: 379, 73
+  orig: 379, 73
+  offset: 0, 0
+  index: -1
+sheep-2/head
+  rotate: false
+  xy: 649, 8
+  size: 645, 378
+  orig: 647, 381
+  offset: 1, 2
+  index: -1

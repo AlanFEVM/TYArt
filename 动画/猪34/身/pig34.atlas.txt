@@ -1,0 +1,62 @@
+
+pig34.png
+size: 1156,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pig-3/arm-l
+  rotate: true
+  xy: 1041, 257
+  size: 77, 107
+  orig: 79, 109
+  offset: 1, 1
+  index: -1
+pig-3/arm-r
+  rotate: true
+  xy: 1041, 108
+  size: 68, 100
+  orig: 70, 102
+  offset: 1, 1
+  index: -1
+pig-3/body
+  rotate: true
+  xy: 2, 516
+  size: 512, 1037
+  orig: 514, 1039
+  offset: 1, 1
+  index: -1
+pig-3/eyelip
+  rotate: true
+  xy: 1041, 683
+  size: 345, 113
+  orig: 347, 115
+  offset: 1, 1
+  index: -1
+pig-4/arm-l
+  rotate: true
+  xy: 1041, 178
+  size: 77, 107
+  orig: 79, 109
+  offset: 1, 1
+  index: -1
+pig-4/arm-r
+  rotate: true
+  xy: 1041, 38
+  size: 68, 100
+  orig: 70, 102
+  offset: 1, 1
+  index: -1
+pig-4/body
+  rotate: true
+  xy: 2, 2
+  size: 512, 1037
+  orig: 514, 1039
+  offset: 1, 1
+  index: -1
+pig-4/eyelip
+  rotate: true
+  xy: 1041, 336
+  size: 345, 113
+  orig: 347, 115
+  offset: 1, 1
+  index: -1

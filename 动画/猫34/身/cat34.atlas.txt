@@ -1,0 +1,48 @@
+
+cat34.png
+size: 222,977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat-3/arm-l
+  rotate: false
+  xy: 105, 182
+  size: 112, 154
+  orig: 114, 156
+  offset: 1, 1
+  index: -1
+cat-3/arm-r
+  rotate: false
+  xy: 2, 170
+  size: 101, 166
+  orig: 103, 168
+  offset: 1, 1
+  index: -1
+cat-3/leg
+  rotate: true
+  xy: 2, 656
+  size: 319, 218
+  orig: 321, 503
+  offset: 1, 1
+  index: -1
+cat-4/arm-l
+  rotate: false
+  xy: 105, 26
+  size: 112, 154
+  orig: 114, 156
+  offset: 1, 1
+  index: -1
+cat-4/arm-r
+  rotate: false
+  xy: 2, 2
+  size: 101, 166
+  orig: 103, 168
+  offset: 1, 1
+  index: -1
+cat-4/leg
+  rotate: true
+  xy: 2, 338
+  size: 316, 218
+  orig: 318, 503
+  offset: 1, 1
+  index: -1

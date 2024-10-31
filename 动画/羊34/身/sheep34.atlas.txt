@@ -1,0 +1,48 @@
+
+sheep34.png
+size: 1401,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheep-3/body
+  rotate: true
+  xy: 2, 2
+  size: 579, 662
+  orig: 581, 665
+  offset: 1, 1
+  index: -1
+sheep-3/earring-l
+  rotate: false
+  xy: 1330, 309
+  size: 61, 125
+  orig: 63, 127
+  offset: 1, 1
+  index: -1
+sheep-4/earring-l
+  rotate: false
+  xy: 1330, 309
+  size: 61, 125
+  orig: 63, 127
+  offset: 1, 1
+  index: -1
+sheep-3/earring-r
+  rotate: false
+  xy: 1330, 436
+  size: 69, 145
+  orig: 72, 147
+  offset: 1, 1
+  index: -1
+sheep-4/earring-r
+  rotate: false
+  xy: 1330, 436
+  size: 69, 145
+  orig: 72, 147
+  offset: 1, 1
+  index: -1
+sheep-4/body
+  rotate: true
+  xy: 666, 2
+  size: 579, 662
+  orig: 581, 665
+  offset: 1, 1
+  index: -1

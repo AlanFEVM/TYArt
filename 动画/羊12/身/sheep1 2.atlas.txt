@@ -1,0 +1,48 @@
+
+sheep1 2.png
+size: 1385,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheep-1/body
+  rotate: true
+  xy: 2, 2
+  size: 579, 640
+  orig: 581, 642
+  offset: 1, 1
+  index: -1
+sheep-1/earring-l
+  rotate: false
+  xy: 1286, 452
+  size: 96, 129
+  orig: 99, 131
+  offset: 1, 1
+  index: -1
+sheep-1/earring-r
+  rotate: false
+  xy: 1286, 191
+  size: 97, 128
+  orig: 99, 130
+  offset: 1, 1
+  index: -1
+sheep-2/body
+  rotate: true
+  xy: 644, 2
+  size: 579, 640
+  orig: 581, 642
+  offset: 1, 1
+  index: -1
+sheep-2/earring-l
+  rotate: false
+  xy: 1286, 321
+  size: 96, 129
+  orig: 99, 131
+  offset: 1, 1
+  index: -1
+sheep-2/earring-r
+  rotate: false
+  xy: 1286, 61
+  size: 97, 128
+  orig: 99, 130
+  offset: 1, 1
+  index: -1

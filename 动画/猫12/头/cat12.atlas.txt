@@ -1,0 +1,62 @@
+
+cat12.png
+size: 1276,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat-1/eyeline1
+  rotate: false
+  xy: 848, 49
+  size: 426, 96
+  orig: 428, 99
+  offset: 1, 2
+  index: -1
+cat-2/eyeline1
+  rotate: false
+  xy: 848, 49
+  size: 426, 96
+  orig: 428, 99
+  offset: 1, 2
+  index: -1
+cat-1/eyeline2
+  rotate: false
+  xy: 848, 2
+  size: 412, 45
+  orig: 414, 47
+  offset: 1, 1
+  index: -1
+cat-2/eyeline2
+  rotate: false
+  xy: 848, 2
+  size: 412, 45
+  orig: 414, 47
+  offset: 1, 1
+  index: -1
+cat-1/eyelip
+  rotate: false
+  xy: 2, 2
+  size: 421, 143
+  orig: 423, 145
+  offset: 1, 1
+  index: -1
+cat-1/head
+  rotate: false
+  xy: 2, 147
+  size: 633, 414
+  orig: 635, 416
+  offset: 1, 1
+  index: -1
+cat-2/eyelip
+  rotate: false
+  xy: 425, 2
+  size: 421, 143
+  orig: 423, 145
+  offset: 1, 1
+  index: -1
+cat-2/head
+  rotate: false
+  xy: 637, 147
+  size: 633, 414
+  orig: 635, 416
+  offset: 1, 1
+  index: -1

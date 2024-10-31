@@ -1,0 +1,62 @@
+
+pig12.png
+size: 2128,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pig-1/arm-l
+  rotate: false
+  xy: 1912, 43
+  size: 77, 109
+  orig: 80, 111
+  offset: 2, 1
+  index: -1
+pig-1/arm-r
+  rotate: false
+  xy: 2060, 407
+  size: 66, 99
+  orig: 68, 101
+  offset: 1, 1
+  index: -1
+pig-1/body
+  rotate: true
+  xy: 2, 2
+  size: 504, 953
+  orig: 506, 955
+  offset: 1, 1
+  index: -1
+pig-1/eyelip
+  rotate: true
+  xy: 1912, 154
+  size: 352, 72
+  orig: 354, 74
+  offset: 1, 1
+  index: -1
+pig-2/arm-l
+  rotate: false
+  xy: 1991, 43
+  size: 77, 109
+  orig: 80, 111
+  offset: 2, 1
+  index: -1
+pig-2/arm-r
+  rotate: false
+  xy: 2060, 306
+  size: 66, 99
+  orig: 68, 101
+  offset: 1, 1
+  index: -1
+pig-2/body
+  rotate: true
+  xy: 957, 2
+  size: 504, 953
+  orig: 506, 955
+  offset: 1, 1
+  index: -1
+pig-2/eyelip
+  rotate: true
+  xy: 1986, 154
+  size: 352, 72
+  orig: 354, 74
+  offset: 1, 1
+  index: -1

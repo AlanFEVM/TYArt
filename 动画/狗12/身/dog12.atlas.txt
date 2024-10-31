@@ -1,0 +1,76 @@
+
+dog12.png
+size: 2487,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog-1/arm-l
+  rotate: true
+  xy: 1945, 34
+  size: 121, 217
+  orig: 123, 219
+  offset: 1, 1
+  index: -1
+dog-1/arm-r
+  rotate: true
+  xy: 1493, 23
+  size: 132, 224
+  orig: 134, 226
+  offset: 1, 1
+  index: -1
+dog-1/body
+  rotate: true
+  xy: 1170, 157
+  size: 299, 602
+  orig: 301, 604
+  offset: 1, 1
+  index: -1
+dog-1/eyelip
+  rotate: true
+  xy: 2378, 135
+  size: 321, 107
+  orig: 323, 109
+  offset: 1, 1
+  index: -1
+dog-1/head
+  rotate: false
+  xy: 2, 2
+  size: 582, 454
+  orig: 584, 456
+  offset: 1, 1
+  index: -1
+dog-2/arm-l
+  rotate: true
+  xy: 2164, 12
+  size: 121, 216
+  orig: 123, 219
+  offset: 1, 1
+  index: -1
+dog-2/arm-r
+  rotate: true
+  xy: 1719, 23
+  size: 132, 224
+  orig: 134, 226
+  offset: 1, 1
+  index: -1
+dog-2/body
+  rotate: true
+  xy: 1774, 157
+  size: 299, 602
+  orig: 301, 604
+  offset: 1, 1
+  index: -1
+dog-2/eyelip
+  rotate: false
+  xy: 1170, 48
+  size: 321, 107
+  orig: 323, 109
+  offset: 1, 1
+  index: -1
+dog-2/head
+  rotate: false
+  xy: 586, 2
+  size: 582, 454
+  orig: 584, 456
+  offset: 1, 1
+  index: -1
