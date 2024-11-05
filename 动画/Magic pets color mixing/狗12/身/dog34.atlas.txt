@@ -1,0 +1,76 @@
+
+dog34.png
+size: 818,1227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog-3/arm-l
+  rotate: false
+  xy: 631, 196
+  size: 123, 225
+  orig: 125, 227
+  offset: 1, 1
+  index: -1
+dog-3/arm-r
+  rotate: false
+  xy: 307, 35
+  size: 134, 226
+  orig: 136, 228
+  offset: 1, 1
+  index: -1
+dog-3/body
+  rotate: false
+  xy: 2, 608
+  size: 303, 617
+  orig: 305, 619
+  offset: 1, 1
+  index: -1
+dog-3/eyelip
+  rotate: false
+  xy: 307, 343
+  size: 322, 78
+  orig: 325, 80
+  offset: 2, 1
+  index: -1
+dog-3/head
+  rotate: false
+  xy: 307, 825
+  size: 509, 400
+  orig: 512, 402
+  offset: 1, 1
+  index: -1
+dog-4/arm-l
+  rotate: true
+  xy: 579, 71
+  size: 123, 225
+  orig: 125, 227
+  offset: 1, 1
+  index: -1
+dog-4/arm-r
+  rotate: false
+  xy: 443, 35
+  size: 134, 226
+  orig: 136, 228
+  offset: 1, 1
+  index: -1
+dog-4/body
+  rotate: false
+  xy: 2, 2
+  size: 303, 604
+  orig: 305, 606
+  offset: 1, 1
+  index: -1
+dog-4/eyelip
+  rotate: false
+  xy: 307, 263
+  size: 322, 78
+  orig: 325, 80
+  offset: 2, 1
+  index: -1
+dog-4/head
+  rotate: false
+  xy: 307, 423
+  size: 509, 400
+  orig: 511, 402
+  offset: 1, 1
+  index: -1

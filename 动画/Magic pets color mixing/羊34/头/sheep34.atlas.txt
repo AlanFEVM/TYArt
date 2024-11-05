@@ -1,0 +1,62 @@
+
+sheep34.png
+size: 1522,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheep-3/eyeline
+  rotate: true
+  xy: 1401, 21
+  size: 376, 62
+  orig: 379, 64
+  offset: 2, 1
+  index: -1
+sheep-4/eyeline
+  rotate: true
+  xy: 1401, 21
+  size: 376, 62
+  orig: 379, 64
+  offset: 2, 1
+  index: -1
+sheep-3/eyelip
+  rotate: true
+  xy: 1161, 12
+  size: 385, 118
+  orig: 389, 120
+  offset: 2, 1
+  index: -1
+sheep-3/head
+  rotate: false
+  xy: 2, 2
+  size: 578, 395
+  orig: 581, 397
+  offset: 1, 1
+  index: -1
+sheep-3/mouth
+  rotate: false
+  xy: 1465, 325
+  size: 55, 72
+  orig: 132, 95
+  offset: 48, 1
+  index: -1
+sheep-4/mouth
+  rotate: false
+  xy: 1465, 325
+  size: 55, 72
+  orig: 132, 95
+  offset: 48, 1
+  index: -1
+sheep-4/eyelip
+  rotate: true
+  xy: 1281, 12
+  size: 385, 118
+  orig: 389, 120
+  offset: 2, 1
+  index: -1
+sheep-4/head
+  rotate: false
+  xy: 582, 2
+  size: 577, 395
+  orig: 580, 397
+  offset: 2, 1
+  index: -1

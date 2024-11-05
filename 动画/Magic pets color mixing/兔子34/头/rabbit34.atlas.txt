@@ -1,0 +1,62 @@
+
+rabbit34.png
+size: 1825,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rabbit-3/eyeline
+  rotate: true
+  xy: 1704, 108
+  size: 399, 59
+  orig: 402, 61
+  offset: 2, 1
+  index: -1
+rabbit-3/eyelip
+  rotate: true
+  xy: 1588, 123
+  size: 384, 114
+  orig: 387, 117
+  offset: 2, 2
+  index: -1
+rabbit-3/face
+  rotate: false
+  xy: 2, 2
+  size: 733, 505
+  orig: 735, 507
+  offset: 1, 1
+  index: -1
+rabbit-3/mouth
+  rotate: false
+  xy: 1472, 48
+  size: 171, 72
+  orig: 173, 74
+  offset: 1, 1
+  index: -1
+rabbit-4/eyeline
+  rotate: true
+  xy: 1765, 109
+  size: 398, 58
+  orig: 400, 60
+  offset: 1, 1
+  index: -1
+rabbit-4/eyelip
+  rotate: true
+  xy: 1472, 122
+  size: 385, 114
+  orig: 387, 117
+  offset: 1, 2
+  index: -1
+rabbit-4/head
+  rotate: false
+  xy: 737, 2
+  size: 733, 505
+  orig: 735, 507
+  offset: 1, 1
+  index: -1
+rabbit-4/mouth
+  rotate: false
+  xy: 1645, 34
+  size: 171, 72
+  orig: 173, 74
+  offset: 1, 1
+  index: -1

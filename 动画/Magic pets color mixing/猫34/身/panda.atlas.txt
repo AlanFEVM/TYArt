@@ -1,0 +1,34 @@
+
+panda.png
+size: 764,621
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyeline (test)
+  rotate: true
+  xy: 719, 273
+  size: 346, 43
+  orig: 348, 45
+  offset: 1, 1
+  index: -1
+eyelip
+  rotate: true
+  xy: 625, 275
+  size: 344, 92
+  orig: 346, 94
+  offset: 1, 1
+  index: -1
+hair
+  rotate: false
+  xy: 2, 2
+  size: 603, 160
+  orig: 605, 163
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 164
+  size: 621, 455
+  orig: 623, 457
+  offset: 1, 1
+  index: -1
