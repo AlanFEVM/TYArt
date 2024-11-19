@@ -1,0 +1,48 @@
+
+panda.png
+size: 780,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bad
+  rotate: false
+  xy: 709, 165
+  size: 49, 31
+  orig: 51, 33
+  offset: 1, 1
+  index: -1
+circle2
+  rotate: true
+  xy: 603, 99
+  size: 97, 104
+  orig: 99, 106
+  offset: 1, 1
+  index: -1
+eyelip
+  rotate: false
+  xy: 348, 8
+  size: 331, 89
+  orig: 333, 91
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 2
+  size: 344, 96
+  orig: 347, 98
+  offset: 2, 1
+  index: -1
+happy
+  rotate: true
+  xy: 603, 198
+  size: 340, 175
+  orig: 342, 178
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 100
+  size: 599, 438
+  orig: 599, 438
+  offset: 0, 0
+  index: -1
