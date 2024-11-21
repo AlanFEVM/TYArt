@@ -1,0 +1,55 @@
+
+sheep.png
+size: 920,610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bad
+  rotate: true
+  xy: 890, 427
+  size: 66, 25
+  orig: 68, 27
+  offset: 1, 1
+  index: -1
+circle2
+  rotate: false
+  xy: 811, 495
+  size: 107, 113
+  orig: 109, 116
+  offset: 1, 2
+  index: -1
+eyeline
+  rotate: true
+  xy: 818, 68
+  size: 425, 70
+  orig: 428, 72
+  offset: 2, 1
+  index: -1
+eyelip
+  rotate: true
+  xy: 661, 172
+  size: 436, 148
+  orig: 439, 150
+  offset: 2, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 399, 6
+  size: 417, 151
+  orig: 420, 153
+  offset: 2, 1
+  index: -1
+happy
+  rotate: false
+  xy: 2, 2
+  size: 395, 155
+  orig: 399, 157
+  offset: 2, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 159
+  size: 657, 449
+  orig: 657, 449
+  offset: 0, 0
+  index: -1

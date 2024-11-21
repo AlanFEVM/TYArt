@@ -1,0 +1,62 @@
+
+cat.png
+size: 1228,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bad
+  rotate: false
+  xy: 789, 97
+  size: 84, 30
+  orig: 86, 32
+  offset: 1, 1
+  index: -1
+circle2
+  rotate: false
+  xy: 1018, 15
+  size: 106, 112
+  orig: 108, 115
+  offset: 1, 2
+  index: -1
+eyeline1
+  rotate: false
+  xy: 591, 3
+  size: 425, 82
+  orig: 427, 84
+  offset: 1, 1
+  index: -1
+eyeline2
+  rotate: false
+  xy: 789, 129
+  size: 390, 39
+  orig: 392, 41
+  offset: 1, 1
+  index: -1
+eyelip
+  rotate: false
+  xy: 789, 170
+  size: 408, 150
+  orig: 410, 152
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 789, 322
+  size: 437, 156
+  orig: 439, 158
+  offset: 1, 1
+  index: -1
+happy
+  rotate: true
+  xy: 591, 87
+  size: 391, 196
+  orig: 393, 198
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 587, 476
+  orig: 587, 540
+  offset: 0, 0
+  index: -1
