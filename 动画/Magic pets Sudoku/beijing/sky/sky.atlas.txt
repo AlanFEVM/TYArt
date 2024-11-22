@@ -1,0 +1,69 @@
+
+sky.png
+size: 5700,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: true
+  xy: 2, 2
+  size: 1080, 2400
+  orig: 1082, 2402
+  offset: 1, 1
+  index: -1
+ground
+  rotate: false
+  xy: 4612, 611
+  size: 1080, 471
+  orig: 1082, 473
+  offset: 1, 1
+  index: -1
+leaf1
+  rotate: false
+  xy: 4324, 60
+  size: 257, 358
+  orig: 272, 358
+  offset: 14, 0
+  index: -1
+leaf2
+  rotate: true
+  xy: 4612, 181
+  size: 428, 606
+  orig: 428, 615
+  offset: 0, 9
+  index: -1
+moutain-b
+  rotate: false
+  xy: 3710, 32
+  size: 612, 386
+  orig: 614, 388
+  offset: 1, 1
+  index: -1
+moutain-f
+  rotate: true
+  xy: 2404, 2
+  size: 1080, 1304
+  orig: 1082, 1307
+  offset: 1, 1
+  index: -1
+star
+  rotate: true
+  xy: 5220, 15
+  size: 183, 185
+  orig: 185, 188
+  offset: 1, 1
+  index: -1
+star-tail
+  rotate: true
+  xy: 5220, 200
+  size: 409, 478
+  orig: 457, 512
+  offset: 48, 34
+  index: -1
+sun
+  rotate: false
+  xy: 3710, 420
+  size: 900, 662
+  orig: 926, 696
+  offset: 25, 15
+  index: -1

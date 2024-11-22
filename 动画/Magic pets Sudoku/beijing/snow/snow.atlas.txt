@@ -1,0 +1,48 @@
+
+snow.png
+size: 2658,2404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 1080, 2400
+  orig: 1082, 2402
+  offset: 1, 1
+  index: -1
+leaf1
+  rotate: false
+  xy: 2107, 240
+  size: 407, 395
+  orig: 407, 395
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: true
+  xy: 2107, 3
+  size: 235, 258
+  orig: 235, 260
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 2107, 637
+  size: 549, 730
+  orig: 549, 730
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 1084, 38
+  size: 1021, 2364
+  orig: 1023, 2366
+  offset: 1, 1
+  index: -1
+treetree
+  rotate: true
+  xy: 2107, 1369
+  size: 1033, 406
+  orig: 1035, 408
+  offset: 1, 1
+  index: -1

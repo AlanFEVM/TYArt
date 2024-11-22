@@ -1,0 +1,41 @@
+
+sea.png
+size: 2535,1086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: true
+  xy: 2, 2
+  size: 1082, 2402
+  orig: 1082, 2402
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 2406, 88
+  size: 77, 81
+  orig: 80, 83
+  offset: 2, 1
+  index: -1
+clowd1
+  rotate: true
+  xy: 2406, 171
+  size: 210, 73
+  orig: 212, 75
+  offset: 1, 1
+  index: -1
+clowd2
+  rotate: true
+  xy: 2406, 383
+  size: 286, 78
+  orig: 288, 80
+  offset: 1, 1
+  index: -1
+clowd3
+  rotate: true
+  xy: 2406, 671
+  size: 413, 127
+  orig: 415, 129
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+seed.png
+size: 5780,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: true
+  xy: 2, 2
+  size: 1080, 2400
+  orig: 1082, 2402
+  offset: 1, 1
+  index: -1
+bird
+  rotate: false
+  xy: 4780, 93
+  size: 370, 222
+  orig: 372, 224
+  offset: 1, 1
+  index: -1
+cactus1
+  rotate: false
+  xy: 5662, 97
+  size: 98, 139
+  orig: 100, 141
+  offset: 1, 1
+  index: -1
+cactus2
+  rotate: false
+  xy: 5152, 4
+  size: 254, 232
+  orig: 256, 234
+  offset: 1, 1
+  index: -1
+cactus3
+  rotate: true
+  xy: 5271, 238
+  size: 357, 507
+  orig: 359, 509
+  offset: 1, 1
+  index: -1
+cactus4
+  rotate: true
+  xy: 5408, 50
+  size: 186, 252
+  orig: 186, 252
+  offset: 0, 0
+  index: -1
+cactus5
+  rotate: false
+  xy: 4780, 317
+  size: 489, 765
+  orig: 489, 765
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: true
+  xy: 3601, 2
+  size: 1080, 1177
+  orig: 1082, 1179
+  offset: 1, 1
+  index: -1
+ground
+  rotate: true
+  xy: 2404, 2
+  size: 1080, 1195
+  orig: 1082, 1208
+  offset: 1, 1
+  index: -1
+sun
+  rotate: false
+  xy: 5271, 597
+  size: 485, 485
+  orig: 487, 487
+  offset: 1, 1
+  index: -1

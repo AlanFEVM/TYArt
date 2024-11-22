@@ -1,0 +1,69 @@
+
+forest.png
+size: 5266,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: true
+  xy: 2, 2
+  size: 1080, 2400
+  orig: 1082, 2402
+  offset: 1, 1
+  index: -1
+flower1
+  rotate: false
+  xy: 4641, 353
+  size: 440, 384
+  orig: 440, 384
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: false
+  xy: 4641, 73
+  size: 257, 278
+  orig: 257, 278
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: true
+  xy: 5083, 291
+  size: 446, 176
+  orig: 446, 182
+  offset: 0, 0
+  index: -1
+flower4
+  rotate: false
+  xy: 5030, 98
+  size: 234, 191
+  orig: 234, 191
+  offset: 0, 0
+  index: -1
+flower5
+  rotate: false
+  xy: 4900, 89
+  size: 128, 262
+  orig: 128, 262
+  offset: 0, 0
+  index: -1
+flower6
+  rotate: true
+  xy: 4641, 739
+  size: 343, 591
+  orig: 343, 591
+  offset: 0, 0
+  index: -1
+jungle
+  rotate: true
+  xy: 3890, 2
+  size: 1080, 749
+  orig: 1082, 754
+  offset: 1, 1
+  index: -1
+leaf
+  rotate: true
+  xy: 2404, 2
+  size: 1080, 1484
+  orig: 1082, 1486
+  offset: 1, 1
+  index: -1
